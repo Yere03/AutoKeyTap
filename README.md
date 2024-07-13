@@ -24,6 +24,6 @@ Se ha utilzado los paquetes:
   
 - pynput (Entrada salida)
 
-- pyinstaller (para crear el instalador
+- pyinstaller (para crear el instalador)
 
-Si se quiere crear el ejecutable lo puede hacer mendiante el siguiente comando "pyinstaller .\main.spec." desde la carpeta del proyecto
+Si se quiere crear el ejecutable lo puede hacer mendiante el siguiente comando "pyinstaller .\main.spec." desde la carpeta del proyecto. Se debe de haber instalado todas las dependecias necesarias para ello.
